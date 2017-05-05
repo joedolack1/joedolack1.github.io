@@ -1,17 +1,18 @@
 body {
+	text-align: center;
     background-color: white;
     color: blue;
     font-family: Helvetica;
 }
 
 h1, p {
-    color: gold;
+    color: black;
 }
 
-p {
+h2, {
 	font-style:italic;
 }
 
 body {
-	color: blue;
+	color: gold
 }
