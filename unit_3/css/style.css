@@ -1,7 +1,10 @@
+html{ 
+	background-image: "unit_3/images/mandela_garage.jpg";
+}
+
 body {
 	text-align: center;
     background-color: white;
-    background-image: "unit_3/images/mandela_garage.jpg";
     color: blue;
     font-family: Helvetica;
 }
