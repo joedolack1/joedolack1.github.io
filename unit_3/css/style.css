@@ -1,9 +1,8 @@
 body {
 	text-align: center;
-    background-color: white;
     color: blue;
     font-family: Helvetica;
-    background: "images/triptych.jpg";
+    background: "unit_3/images/triptych.jpg";
 }
 
 h1, p {
