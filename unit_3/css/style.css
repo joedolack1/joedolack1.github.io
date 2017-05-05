@@ -1,12 +1,9 @@
-body { 
-	background-image: "images/triptych";
-}
-
 body {
 	text-align: center;
     background-color: white;
     color: blue;
     font-family: Helvetica;
+    background: "images/triptych.jpg";
 }
 
 h1, p {
