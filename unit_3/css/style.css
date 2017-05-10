@@ -1,23 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Inknut+Antiqua|Mystery+Quest|Open+Sans');
+
 body {
+	background-color: white;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	text-align: center;
-    color: blue;
+    color: darkblue;
     font-family: Helvetica;
-    background: "unit_3/images/triptych.jpg";
 }
 
-h1, p {
-    color: black;
+footer { 
+    display: block;
+    width: 600px;
+    text-align: center;
+    float: center;
 }
 
-h2, {
-	font-style:italic;
+#logo {
+	align-content: center;
+	height: 100px;
 }
 
-body {
-	color: gold
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	text-align: center;
+	size: 10pt;
+}
+
+li {display: inline;
+	text-align: center;
 }
 
 ul {
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 1px; 
     text-align: center;
     list-style-type: none;
 }
+
+#mainvdiv {
+	width: 100%;
+	height: 50px;
+	background: #648DA0;
+	line-height: 80px;
+	color: white;
+}
+
+#navdiv ul{
+	width: 100%;
+	height:80px;
+	background: black;
+}
+
+#navdiv ul li {
+	padding: 30px;
+	list-style-type: none;
+	display: inline-block;
+}
+#navdiv ul a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+}
+
+
+
+  
