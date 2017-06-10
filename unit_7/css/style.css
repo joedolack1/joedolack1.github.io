@@ -20,8 +20,9 @@ p {
 	margin: auto;
 }
 
-li {display: inline;
+li {display: vertical;
 	text-align: center;
+  line-height: 30px;
 }
 
 ul {
